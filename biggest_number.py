@@ -1,0 +1,7 @@
+a = int(input("enter a number:"))
+b= int(input("enter second number:"))
+c= int(input("enter last number:"))
+biggest_number = max(a,b,c,)
+print(biggest_number)
+smallest_number = min(a,b,c)
+print(smallest_number)
